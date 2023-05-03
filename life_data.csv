@@ -1,0 +1,194 @@
+country,expectancy,mortality
+Afghanistan,58.19375,269.0625
+Albania,75.15625,45.0625
+Algeria,73.61875,108.1875
+Angola,49.01875,328.5625
+Antigua and Barbuda,75.05625,127.5
+Argentina,75.15625,106
+Armenia,73.4,117.375
+Australia,81.8125,63.1875
+Austria,81.48125,65.75
+Azerbaijan,70.73125,115.1875
+Bahamas,74.2875,152.0625
+Bahrain,75.725,65.375
+Bangladesh,69.3,141.375
+Barbados,74.35625,77.625
+Belarus,69.90625,218.75
+Belgium,80.68125,70.1875
+Belize,69.26875,155.5
+Benin,57.56875,269.375
+Bhutan,66.1625,230.25
+Bolivia (Plurinational State of),67.70625,177.5
+Bosnia and Herzegovina,75.96875,64.9375
+Botswana,56.05,448.125
+Brazil,73.38125,150.6875
+Brunei Darussalam,76.4875,67.0625
+Bulgaria,72.85,125.5
+Burkina Faso,55.64375,252.5
+Burundi,55.5375,291.5625
+Côte d'Ivoire,50.3875,417.3125
+Cabo Verde,72.51875,116.1875
+Cambodia,64.34375,196.375
+Cameroon,54.01875,294.875
+Canada,81.6875,64.625
+Central African Republic,48.5125,333.0625
+Chad,50.3875,227.75
+Chile,79.45,63.625
+China,74.2625,73.75
+Colombia,73.2875,124.25
+Comoros,61.58125,240.9375
+Congo,59.04375,322.75
+Cook Islands,78,321
+Costa Rica,78.59375,69.375
+Croatia,76.11875,89
+Cuba,77.975,57.5625
+Cyprus,79.675,54.125
+Czechia,76.76875,71.8125
+Democratic People's Republic of Korea,69.19375,160.8125
+Democratic Republic of the Congo,55.6875,265.375
+Denmark,79.25625,66.0625
+Djibouti,60.75625,274.6875
+Dominica,60.4,265
+Dominican Republic,72.34375,143.5
+Ecuador,74.725,132.125
+Egypt,71.5,170.625
+El Salvador,71.74375,155.0625
+Equatorial Guinea,55.3125,279.375
+Eritrea,60.6875,308.625
+Estonia,74.94375,169.6875
+Ethiopia,59.1125,285.5625
+Fiji,68.7125,125
+Finland,80.7125,68.875
+France,82.21875,73.125
+Gabon,62.24375,220.4375
+Gambia,59.4625,249.625
+Georgia,73.50625,114.9375
+Germany,81.175,71.25
+Ghana,60.8625,180.0625
+Greece,81.21875,73.625
+Grenada,73.29375,153.75
+Guatemala,71.73125,131.1875
+Guinea,56.0125,259.875
+Guinea-Bissau,55.36875,158.3125
+Guyana,65.6375,203.9375
+Haiti,59.86875,168.3125
+Honduras,72.99375,142
+Hungary,73.825,147.0625
+Iceland,82.44375,49.375
+India,65.41875,146.5625
+Indonesia,67.55625,166.5625
+Iran (Islamic Republic of),73.85625,107
+Iraq,70.35625,136.75
+Ireland,80.15,72.4375
+Israel,81.3,59.5
+Italy,82.1875,54.1875
+Jamaica,74.29375,141.25
+Japan,82.5375,57.125
+Jordan,72.9875,114.3125
+Kazakhstan,66.7625,232.0625
+Kenya,57.48125,348.5625
+Kiribati,65.15,129.4375
+Kuwait,73.84375,83.25
+Kyrgyzstan,69.08125,173.6875
+Lao People's Democratic Republic,62.38125,197.1875
+Latvia,73.73125,161.8125
+Lebanon,74.2,65.3125
+Lesotho,48.78125,550.0625
+Liberia,57.525,246.9375
+Libya,72.4875,139.6875
+Lithuania,72.80625,117.25
+Luxembourg,80.78125,67.5625
+Madagascar,62.74375,228.8125
+Malawi,49.89375,424.4375
+Malaysia,73.75625,118.5625
+Maldives,75.5375,83.1875
+Mali,54.9375,202.125
+Malta,80.3625,60.75
+Marshall Islands,65,123
+Mauritania,62.8,159.9375
+Mauritius,72.7125,163.5625
+Mexico,75.71875,111.0625
+Micronesia (Federated States of),68.2,154.0625
+Monaco,65,234
+Mongolia,65.8875,222.125
+Montenegro,74.5,92.75
+Morocco,72.15625,95.1875
+Mozambique,53.39375,226.25
+Myanmar,64.2,154.3125
+Namibia,60.4,313.1875
+Nauru,76,321
+Nepal,66.48125,147.25
+Netherlands,81.13125,61.625
+New Zealand,81.3375,71.5
+Nicaragua,73.45,162.375
+Niger,56.98125,232.4375
+Nigeria,51.35625,248.5
+Niue,73.45,232.4375
+Norway,81.79375,66.25
+Oman,74.84375,67.75
+Pakistan,64.5,154
+Palau,73.45,232.4375
+Panama,76.4875,115.875
+Papua New Guinea,61.68125,266.5625
+Paraguay,73.1125,139.9375
+Peru,73.6625,122.4375
+Philippines,67.575,217.9375
+Poland,75.65,107.5625
+Portugal,79.99375,58.875
+Qatar,77.03125,75.375
+Republic of Korea,80.4875,76.1875
+Republic of Moldova,69.98125,210.3125
+Romania,74.05,156.0625
+Russian Federation,67.7625,224.5625
+Rwanda,59.3125,246.8125
+Saint Kitts and Nevis,67.7625,224.5625
+Saint Lucia,73.6,146.25
+Saint Vincent and the Grenadines,73.475,152.0625
+Samoa,73.61875,133.5625
+San Marino,73.61875,133.5625
+Sao Tome and Principe,65.1625,164.9375
+Saudi Arabia,73.46875,52.125
+Senegal,62.56875,174.1875
+Serbia,73.95625,130.4375
+Seychelles,72.375,161.1875
+Sierra Leone,46.1125,357.8125
+Singapore,81.475,62
+Slovakia,74.75,118.0625
+Slovenia,79.73125,76.4375
+Solomon Islands,67.7125,140.0625
+Somalia,53.31875,316.75
+South Africa,57.5,412.75
+South Sudan,53.875,346.3125
+Spain,82.06875,63.625
+Sri Lanka,73.4,144.375
+Sudan,61.825,240.3125
+Suriname,70.08125,166
+Swaziland,51.325,339
+Sweden,82.51875,59.1875
+Switzerland,82.33125,55.75
+Syrian Arab Republic,70.85,139.625
+Tajikistan,66.65625,177.5625
+Thailand,73.08125,160.375
+The former Yugoslav republic of Macedonia,74.1125,60.8125
+Timor-Leste,64.75625,170.375
+Togo,56.6625,311.3125
+Tonga,72.53125,129.625
+Trinidad and Tobago,71.06875,163.375
+Tunisia,74.35625,18.75
+Turkey,73.9125,98.375
+Turkmenistan,64.61875,214.8125
+Tuvalu,64.61875,98.375
+Uganda,55.70625,300.1875
+Ukraine,69.9375,205.75
+United Arab Emirates,75.7,67.0625
+United Kingdom of Great Britain and Northern Ireland,80.79375,70.375
+United Republic of Tanzania,56.00625,304.4375
+United States of America,78.0625,58.1875
+Uruguay,76.075,119.9375
+Uzbekistan,68.03125,184.8125
+Vanuatu,71.3875,137.875
+Venezuela (Bolivarian Republic of),73.3875,163
+Viet Nam,74.775,126.5625
+Yemen,63.8625,211.8125
+Zambia,53.90625,354.3125
+Zimbabwe,50.4875,462.375
